@@ -1,0 +1,21 @@
+{
+  "archive": "demo1_rolling_object_indoor_floor_episodes_00005_00005.tar.gz",
+  "full_sha256": "f1033f3c5223f9287afb86f468160538fc7fdf701e2479b173b6a2e2a142aab4",
+  "full_bytes": 177087291,
+  "storage_mode": "split_tar_gz_parts",
+  "part_count": 2,
+  "parts": [
+    {
+      "index": 0,
+      "file": "demo1_rolling_object_indoor_floor_episodes_00005_00005.tar.gz.part000",
+      "bytes": 90000000,
+      "sha256": "796e6cc0d538fb50338e6caf6f8d7255315354c30d147fa8de3e853490b2dc6e"
+    },
+    {
+      "index": 1,
+      "file": "demo1_rolling_object_indoor_floor_episodes_00005_00005.tar.gz.part001",
+      "bytes": 87087291,
+      "sha256": "9d85ed8c822499a3f10d5bd448f45eb854f77b9efc255aba94190c74dea077c0"
+    }
+  ]
+}
